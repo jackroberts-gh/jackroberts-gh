@@ -8,5 +8,5 @@ I'm Jack!
 
 - 🔭 Currently working at Kraken
 - 🌱 I’m currently studying for the AWS Advanced Networking certificate
-- 📫 How to reach me: Raise a PR! 
+- 📫 How to reach me: Raise an issue! 
 - ⚡ Fun fact: I can learn, and then subsequently unlearn RegEx within a matter of seconds, and tend to perform this trick the minute I need to know it.
