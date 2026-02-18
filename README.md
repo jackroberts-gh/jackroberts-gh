@@ -7,6 +7,7 @@ I'm Jack!
 **PREVIOUSLY**: 6+ years of experience in Software Engineering teams, primarily delivering common services and tooling consumed by internal teams. Responsible for helping teams to deliver and deploy secure containers and deployments in to multiple Kubernetes environments.
 
 - 🔭 Currently working at Kraken
-- 🌱 Studying for the AWS Advanced Networking certificate
-- Open source contributor to `terraform-provider-aws`
+- 🌱 Studying for AWS Advanced Networking
+- 🐀 Reading "Learning Go" by @jonbodner
+- 🏗️ Open source contributor to `terraform-provider-aws`
 - 📫 How to reach me: Raise an issue!
