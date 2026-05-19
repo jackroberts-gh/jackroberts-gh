@@ -8,6 +8,6 @@ I'm Jack!
 
 - 🔭 Currently working at Kraken
 - 🌱 Studying for AWS Advanced Networking
-- 🐀 Reading "Learning Go" by @jonbodner
+- 🐀 Reading "Learning Go" by @jonbodner & "Designing Data-intensive Applications 2nd Edition" by @martinkleppman
 - 🏗️ Open source contributor to `terraform-provider-aws`
 - 📫 How to reach me: Raise an issue!
